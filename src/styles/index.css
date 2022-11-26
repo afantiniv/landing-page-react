@@ -10,3 +10,7 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.footer{
+    height: 3em;
+}
